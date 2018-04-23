@@ -29,7 +29,7 @@ import org.springframework.samples.petclinic.model.BaseEntity;
 
 /**
  * Simple JavaBean domain object representing a visit.
- *
+ * Good morning Jane! :)
  * @author Ken Krebs
  * @author Dave Syer
  */
